@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/worawech/test_component#readme",
   "peerDependencies": {
-    "react": "^16.4.0"
+    "react": "^16.5.0"
   },
   "dependencies": {
     "react": "^16.5.0",
