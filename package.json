@@ -1,0 +1,35 @@
+{
+  "name": "test_component",
+  "version": "1.0.0",
+  "description": "",
+  "main": "build/index.js",
+  "scripts": {
+    "start": "webpack --watch",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/worawech/test_component.git"
+  },
+  "author": {
+    "name": "worawech"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/worawech/test_component/issues"
+  },
+  "homepage": "https://github.com/worawech/test_component#readme",
+  "dependencies": {
+    "react": "^16.5.0",
+    "webpack": "^4.18.0"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.3",
+    "babel-loader": "^8.0.2",
+    "babel-plugin-transform-object-rest-spread": "^6.26.0",
+    "babel-plugin-transform-react-jsx": "^6.24.1",
+    "babel-preset-env": "^1.7.0",
+    "webpack-cli": "^3.1.0"
+  }
+}
